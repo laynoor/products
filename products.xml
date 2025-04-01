@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="product.css"?> 
+
+<products>
+
+	<product>
+		<name>If I Have to be Haunted</name>
+		<category>YA, Romance</category>
+		<description>Audio CD</description>
+		<price>$14.98</price>
+	</product>
+
+	
+	<product>	
+		<name>Not Here to Be Liked</name>
+		<category>YA, Romance</category>
+		<description>Paperback</description>
+		<price>$8.79</price>
+	</product>
+
+
+	<product>
+		<name>Delilah Green Doesn’t Care</name>
+		<category>Romance</category>
+		<description>Paperback</description>
+		<price>$9.99</price>
+	</product>
+
+	<product>
+		<name>The Atlas Six</name>
+		<category>Fantasy</category>
+		<description>Hardcover</description>
+		<price>$13.98</price>
+	</product>
+
+	<product>
+		<name>Fourth Wing</name>
+		<category>Fantasy</category>
+		<description>Audio CD</description>
+		<price>$44.19</price>
+	</product>
+
+	<product>
+		<name>These Violent Delights</name>
+		<category>Fantasy</category>
+		<description>Hardcover</description>
+		<price>$9.18</price>
+	</product>
+
+
+	<product>
+		<name>How to Find a Missing Girl</name>
+ 		<category>YA</category>
+		<description>Audio CD</description>
+		<price>$33.79</price>
+	</product>
+
+	<product>
+		<name>The Loudest Silence</name>
+		<category>YA</category>
+		<description>Paperback</description>
+		<price>$16.99</price>
+	</product>
+
+</products>
